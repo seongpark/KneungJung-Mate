@@ -31,3 +31,6 @@
 
 # 추가 예정 기능
 - 내 정보 기능
+
+# 안내사항
+- 이 외 정보는 <a href="https://github.com/seongpark/Kneung-Info-2.0">기존 강중인포의 레포</a>를 참고하시기 바랍니다.
